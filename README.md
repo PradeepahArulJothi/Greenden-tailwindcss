@@ -4,7 +4,7 @@ A modern and responsive plant shopping website built using **HTML** and **Tailwi
 
 ## 🚀 Live Demo
 
-Add your live demo link here:
+https://pradeepaharuljothi.github.io/Greenden-tailwindcss/
 
 
 ## 📂 GitHub Repository
